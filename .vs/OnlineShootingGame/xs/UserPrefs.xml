@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EAED940B-5616-59F0-0ADD-D9538D97E057}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game/BulletInfo.cs" Line="57" Column="47" />
+      <File FileName="Assets/Scripts/Game/PlayerController.cs" />
+      <File FileName="Assets/Scripts/Game/GameController.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/LoginController.cs" />
+      <File FileName="Assets/Scripts/ExitHandler.cs" Line="17" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineShootingGame" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Photon" expanded="True">
+                <Node name="PhotonUnityNetworking" expanded="True">
+                  <Node name="Code" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Game" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63c2bf75-1a26-4d9a-8a80-ee99bce2eb8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
